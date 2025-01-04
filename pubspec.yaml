@@ -2,7 +2,7 @@ name: neumorphic_kit
 description: A Flutter plugin for creating neumorphic UI components.
 
 version: 0.1.0
-author: Muralidharan K 
+
 homepage: https://github.com/MuralidharanKrishnamoorthy/neumorphic_kit_plugin.git
 
 environment:
