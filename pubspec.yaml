@@ -1,7 +1,9 @@
 name: neumorphic_kit
 description: A Flutter plugin for creating neumorphic UI components.
+
 version: 0.1.0
-homepage: https://example.com
+author: Muralidharan K 
+homepage: https://github.com/MuralidharanKrishnamoorthy/neumorphic_kit_plugin.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -25,10 +27,8 @@ flutter:
       ios:
         pluginClass: NeumorphicKitPlugin
 
-# Additional metadata
-repository: https://github.com/yourusername/neumorphic_kit
-issue_tracker: https://github.com/yourusername/neumorphic_kit/issues
-
+repository: https://github.com/MuralidharanKrishnamoorthy/neumorphic_kit_plugin.git
+issue_tracker: https://github.com/MuralidharanKrishnamoorthy/neumorphic_kit_plugin.git
 # Assets and other configurations (if any)
 # assets:
 #   - assets/
