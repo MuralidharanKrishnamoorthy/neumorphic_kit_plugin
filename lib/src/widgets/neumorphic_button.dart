@@ -21,8 +21,8 @@ class NeumorphicButton extends StatefulWidget {
   })  : theme = theme ??
             const NeumorphicTheme(
               baseColor: Color(0xFFE0E5EC),
-              shadowDarkColor: Color(0x4D000000), // 0.3 opacity
-              shadowLightColor: Color(0xCCFFFFFF), // 0.8 opacity
+              shadowDarkColor: Color(0x4D000000),
+              shadowLightColor: Color(0xCCFFFFFF),
               depth: 8.0,
               intensity: 0.5,
               lightSource: Offset(-1, -1),

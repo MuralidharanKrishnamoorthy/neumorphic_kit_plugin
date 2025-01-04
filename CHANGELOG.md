@@ -1,8 +1,6 @@
-```markdown
-## 0.0.1
+## 0.1.0
 
 - Initial release.
-
-* TODO: Describe initial release.
-
-
+  - Added `NeumorphicContainer` for neumorphic styled containers.
+  - Added `NeumorphicCard` for neumorphic styled cards.
+  - Added `NeumorphicButton` for neumorphic styled buttons.
