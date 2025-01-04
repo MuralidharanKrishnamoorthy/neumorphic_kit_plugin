@@ -31,6 +31,9 @@ flutter:
 
 repository: https://github.com/MuralidharanKrishnamoorthy/neumorphic_kit_plugin
 issue_tracker: https://github.com/MuralidharanKrishnamoorthy/neumorphic_kit_plugin/issues
+
+maintainers:
+  - Muralidharan K <muralikrishnamoorthy27@gmail.com>
 # Assets and other configurations (if any)
 # assets:
 #   - assets/
